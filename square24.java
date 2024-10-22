@@ -11,7 +11,7 @@ public class square24 {
                 System.out.print("*");
                 
             }
-           
+            System.out.println();
         }
         
     }
